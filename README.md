@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# Muro Interactivo
+[!IMPORTANT]
+> Sé que es una mala práctica que se suba con los datos del `firebaseConfig`, pero supongo que no importa mucho para este proyecto.  
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
